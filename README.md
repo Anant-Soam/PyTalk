@@ -10,5 +10,5 @@
 - 💡 Lightweight and beginner-friendly
 - 🐍 Built using Python
 
-## 📁 Project Structure
+
 
