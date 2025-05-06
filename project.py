@@ -58,5 +58,5 @@ elif read_option == "page":
     page_to_read = int(input("Please enter the page number to read (1-based): "))
     pdf_to_audio(pdf_file_path, page_to_read)
 else:
-    print("Invalid option selected. Please restart the program.")
+    print("Invalid option selected. Please restart the program .")
 
